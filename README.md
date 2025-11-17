@@ -30,9 +30,9 @@ I'm focused on mastering the **Modern Web Application Stack** by building small,
 * **Next.js / React / Tailwind CSS:** Mastering full-stack, rapid UI development and styling.
     
 
-### 🚀 Featured Experiments:
+### 🚀 Featured Projects:
 
-* **[Project Link](https://github.com/lizchambs/user-stories-ai): User Story Spark** (Next.js, OpenAI API)
+* **[User Story Spark](https://github.com/lizchambs/user-stories-ai):** AI-driven tool helping PMs craft user stories that spark joy. (TypeScript, Next.js, OpenAI API)
 <!--
 * **[Project Link]: Roadmap Visualizer Component** (React, Data Viz)
 * **[Project Link]: PM Task Automation Scripts** (TypeScript)
