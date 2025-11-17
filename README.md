@@ -32,7 +32,7 @@ I'm focused on mastering the **Modern Web Application Stack** by building small,
 
 ### 🚀 Featured Experiments:
 
-* **[Project Link]: User Stories Spark** (Next.js, OpenAI API)
+* **[Project Link](https://github.com/lizchambs/user-stories-ai): User Stories Spark** (Next.js, OpenAI API)
 <!--
 * **[Project Link]: Roadmap Visualizer Component** (React, Data Viz)
 * **[Project Link]: PM Task Automation Scripts** (TypeScript)
