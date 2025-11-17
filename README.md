@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome! I'm a **Sr. Program Manager, Tech** @ **Uber** by profession, but this GitHub profile is purely for **learning, fun, and breaking things.**
+I'm a **Sr. Program Manager, Tech** @ **Uber** by profession, but this GitHub profile is purely for **learning, fun, and breaking things.**
 
 > **Disclaimer:** This is my personal code playground. Expect half-finished prototypes and passionate attempts at new frameworks.
 
