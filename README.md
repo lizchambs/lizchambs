@@ -25,7 +25,7 @@ Welcome! I'm a **Sr. Program Manager, Tech** @ **Uber** by profession, but this 
 
 I'm focused on mastering the **Modern Web Application Stack** by building small, practical tools useful for Program/Product Managers.
 
-* **AI API Integration:** Building prototypes for automated AI-driven tools for PMs.
+* **AI Integration:** Utilize OpenAI API to build prototypes for automated AI-driven tools for PMs.
 * **TypeScript (TS):** Writing more robust, maintainable application logic.
 * **Next.js / React / Tailwind CSS:** Mastering full-stack, rapid UI development and styling.
     
