@@ -25,14 +25,14 @@ Welcome! I'm a **Sr. Program Manager, Tech** @ **Uber** by profession, but this 
 
 I'm focused on mastering the **Modern Web Application Stack** by building small, practical tools useful for Program/Product Managers.
 
-* **AI Integration:** Building prototypes for automated AI-driven tools for PMs.
+* **AI API Integration:** Building prototypes for automated AI-driven tools for PMs.
 * **TypeScript (TS):** Writing more robust, maintainable application logic.
 * **Next.js / React / Tailwind CSS:** Mastering full-stack, rapid UI development and styling.
     
 
 ### 🚀 Featured Projects:
 
-* **[User Story Spark](https://user-stories-ai.vercel.app/):** AI-driven tool helping PMs craft user stories that spark joy. (TypeScript, Next.js, OpenAI API)
+* **[User Story Spark](https://user-stories-ai.vercel.app/):** AI-driven tool helping PMs craft user stories that spark joy.
 <!--
 * **[Project Link]: Roadmap Visualizer Component** (React, Data Viz)
 * **[Project Link]: PM Task Automation Scripts** (TypeScript)
