@@ -32,7 +32,7 @@ I'm focused on mastering the **Modern Web Application Stack** by building small,
 
 ### 🚀 Featured Projects:
 
-* **[User Story Spark](https://github.com/lizchambs/user-stories-ai):** AI-driven tool helping PMs craft user stories that spark joy. (TypeScript, Next.js, OpenAI API)
+* **[User Story Spark](https://user-stories-ai.vercel.app/):** AI-driven tool helping PMs craft user stories that spark joy. (TypeScript, Next.js, OpenAI API)
 <!--
 * **[Project Link]: Roadmap Visualizer Component** (React, Data Viz)
 * **[Project Link]: PM Task Automation Scripts** (TypeScript)
