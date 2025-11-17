@@ -25,11 +25,10 @@ Welcome! I'm a **Sr. Program Manager, Tech** @ **Uber** by profession, but this 
 
 I'm focused on mastering the **Modern Web Application Stack** by building small, practical tools useful for Program/Product Managers.
 
-### 🛠️ Currently Dabbling In:
-
-* **AI Integrations:** Building prototypes for automated AI-driven tools for PMs.
+* **AI Integration:** Building prototypes for automated AI-driven tools for PMs.
 * **TypeScript (TS):** Writing more robust, maintainable application logic.
 * **Next.js / React / Tailwind CSS:** Mastering full-stack, rapid UI development and styling.
+    
 
 ### 🚀 Featured Experiments:
 
@@ -48,3 +47,8 @@ Feel free to say hi if you're also learning this stack or have tips on building 
 * [LinkedIn Profile Link]
 * [Personal Blog/Website Link]
 -->
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![OpenAI API](https://img.shields.io/badge/OpenAI_API-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/docs/api-reference)
