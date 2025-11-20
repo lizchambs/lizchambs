@@ -52,3 +52,5 @@ Feel free to say hi if you're also learning this stack or have tips on building 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/docs/api-reference)
+
+  ![](https://komarev.com/ghpvc/?username=lizchambs&style=for-the-badge&color=blue)
